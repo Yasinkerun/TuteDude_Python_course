@@ -30,7 +30,7 @@ Filename: `Greetings.py`
 
   Module: Control Structures in Python
 
----
+File Name: even_odd_check.py
 
  Task 1: Check if a Number is Even or Odd
 
@@ -40,7 +40,7 @@ Filename: `Greetings.py`
 - Display an appropriate message.
 
 
----
+File Name: sum_1_to_50.py
 
  Task 2: Sum of Integers from 1 to 50 Using a Loop
 
@@ -48,4 +48,35 @@ Filename: `Greetings.py`
 - Use a `for` loop to iterate from 1 to 50.
 - Calculate the sum of all integers in this range.
 - Display the final sum.
+
+
+
+# Assignment 3: Functions & Modules in Python
+
+
+ Module: Functions & Modules in Python
+
+File name: Factorial_Int.py
+
+ Task 1: Calculate Factorial Using a Function
+
+ Problem Statement:
+- Define a function named factorial that accepts a number as an argument.
+- Calculate the factorial using a loop or recursion.
+- Return the result and print it after calling the function with a sample number.
+
+# Task 2: Using the Math Module for Calculations
+
+File Name: math_mod.py
+
+ Problem Statement:
+
+Write a Python program that:
+
+1. Prompts the user to enter a number.
+2. Uses the math module to calculate and display:
+   - The square root of the number
+   - The natural logarithm (log base e) of the number
+   - The sine of the number (in radians)
+
 
