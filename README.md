@@ -58,14 +58,14 @@ File Name: sum_1_to_50.py
 
 File name: Factorial_Int.py
 
- Task 1: Calculate Factorial Using a Function
+Task 1: Calculate Factorial Using a Function
 
  Problem Statement:
 - Define a function named factorial that accepts a number as an argument.
 - Calculate the factorial using a loop or recursion.
 - Return the result and print it after calling the function with a sample number.
 
-# Task 2: Using the Math Module for Calculations
+Task 2: Using the Math Module for Calculations
 
 File Name: math_mod.py
 
