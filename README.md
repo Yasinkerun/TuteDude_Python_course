@@ -79,4 +79,32 @@ Write a Python program that:
    - The natural logarithm (log base e) of the number
    - The sine of the number (in radians)
 
+# Assignment 4: Files, Exceptions, and Errors in Python
+
+Module: Files, Exceptions, and Errors in Python
+
+---
+
+ Task 1: Read a File and Handle Errors
+
+File Name: read_file.py
+
+ Problem Statement:
+- Open and read a text file named `sample.txt`.
+- Print its content line by line.
+- Handle errors gracefully if the file does not exist using exception handling (`try-except` block).
+
+
+
+---
+
+Task 2: Write and Append Data to a File
+
+File Name: Append_file.py
+
+Problem Statement:
+- Take user input and write it to a file named `output.txt`.
+- Append additional data to the same file.
+- Read and display the final content of the file.
+
 
